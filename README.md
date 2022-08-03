@@ -1,6 +1,11 @@
-# dapp_note_app
+# Flutter Web3 App - Notes
 
-A new Flutter project.
+This app is for creating, delete Note on a blockchain
+
+#Software Used
+Truffle
+Ganache
+
 
 ## Getting Started
 
